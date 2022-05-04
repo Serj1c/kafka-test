@@ -1,0 +1,19 @@
+{
+  "name": "kafka-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "author": "Sergei Isaev",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^1.16.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
